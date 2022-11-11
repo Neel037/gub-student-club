@@ -4,10 +4,15 @@
 }
 
 .hero-section{
-    height: 650px;
+    padding: 250px 0;
     background: url(images/hero.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 
+}
+
+.hero-heading{
+    background-color: rgba(59, 190, 233, 0.33);
+    padding: 25px 0;
 }
