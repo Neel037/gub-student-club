@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hero-section{
+    height: 650px;
+    background: url(images/hero.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
