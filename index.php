@@ -12,7 +12,7 @@
 
                     <h1>Welcome To GUB Student Club</h1>
                     <p>A Club to help each other and share study materials.</p>
-                    <button type="button" class="btn btn-success px-4">Join Club</button>
+                    <a href="register.php"><button type="button" class="btn btn-success px-4">Join Club</button></a>
 
                 </div>
 
