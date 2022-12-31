@@ -52,7 +52,6 @@
                         </form>
                         <a href="register.php"><button type="button" class="btn btn-success m-2">Join Club</button></a>
                         <a href="login.php"><button type="button" class="btn btn-warning m-2">Login</button></a>
-                        <a href="logout.php"><button type="button" class="btn btn-danger">Logout</button></a>
                       </div>
                     </div>
                   </nav>

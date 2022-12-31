@@ -1,1 +1,0 @@
-<h1>Welcome To Student Area</h1>
