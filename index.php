@@ -20,9 +20,6 @@
         </div>
     </section>
     
-<section>
-<?php include 'footer.php';?>
-</section>
 
 
 
