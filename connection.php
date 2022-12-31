@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+
 <?php
 $servername = "localhost";
 $username = "root";
@@ -11,4 +11,3 @@ $con = new mysqli($servername, $username, $password, $database);
 ?>
 
 
-<?php include 'footer.php'; ?>

@@ -1,9 +1,11 @@
-<?php 
+<?php
+session_start();
 include_once('connection.php'); 
 ?>
+<?php include 'header.php'; ?>
 
 <?php
-    session_start();
+    
     $message="";
     if(count($_POST)>0) {
         $result = mysqli_query($con,"SELECT * FROM user WHERE email='" . $_POST["email"] . "' and password = '". $_POST["password"]."'");

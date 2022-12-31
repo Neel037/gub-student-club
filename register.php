@@ -1,5 +1,6 @@
 
 <?php include 'connection.php';?>
+<?php include 'header.php'; ?>
 
 <?php
         if (isset($_POST['submit'])) {

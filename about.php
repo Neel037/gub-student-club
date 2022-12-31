@@ -1,4 +1,5 @@
 <?php include 'connection.php';?>
+<?php include 'header.php'; ?>
 
 
 
@@ -129,3 +130,5 @@
   </div>
 
   </div>
+
+  <?php include 'footer.php'; ?>

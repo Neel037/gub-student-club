@@ -1,5 +1,5 @@
 <?php include 'connection.php';?>
-
+<?php include 'header.php'; ?>
 
 
 
@@ -19,10 +19,13 @@
             </div>
         </div>
     </section>
-    
-<section>
-<?php include 'footer.php';?>
-</section>
+
+    <?php include 'footer.php'; ?>
+
+    </body>
+</html>
+
+
 
 
 

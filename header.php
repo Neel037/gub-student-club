@@ -22,7 +22,7 @@
                       <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                           <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Home</a>
+                            <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                           </li>
                           <li class="nav-item">
                             <a class="nav-link" href="about.php">About Club</a>
@@ -40,6 +40,9 @@
                               <li><a class="dropdown-item" href="#">Other Topics</a></li>
                             </ul>
                           </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="contact.php">Contact Us</a>
+                          </li>
                           
                           
                         </ul>
@@ -48,7 +51,8 @@
                           <button class="btn btn-outline-success" type="submit">Search</button>
                         </form>
                         <a href="register.php"><button type="button" class="btn btn-success m-2">Join Club</button></a>
-                        <a href="login.php"><button type="button" class="btn btn-warning">Login</button></a>
+                        <a href="login.php"><button type="button" class="btn btn-warning m-2">Login</button></a>
+                        <a href="logout.php"><button type="button" class="btn btn-danger">Logout</button></a>
                       </div>
                     </div>
                   </nav>
